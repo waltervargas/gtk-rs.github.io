@@ -9,7 +9,7 @@ The __gtk__ crate expects __GTK+__, __GLib__ and __Cairo__ development files to 
 ## Debian and Ubuntu
 
 ~~~bash
-> sudo apt-get install libgtk-3-dev
+❯ sudo apt install libgtk-3-dev
 ~~~
 
 ## Fedora
